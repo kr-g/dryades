@@ -1,5 +1,5 @@
 
-    (c)2022 K. Goger - https://github.com/kr-g
+    (c)2020,2021,2022 K. Goger - https://github.com/kr-g
 
 project homepage:
 https://github.com/kr-g/dryades
