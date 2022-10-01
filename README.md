@@ -3,6 +3,11 @@
 home of the `dryades` umbrella project
 
 
+# documentation
+
+the module documentation can be found in folder [`docs`](./docs/)
+
+
 # what's new ?
 
 check
