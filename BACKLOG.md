@@ -8,18 +8,18 @@ for latest ongoing, or upcoming news.
 
 ##  heapfile
 
-- acid atomic handling -> bimfile
+- acid atomic handling 
   - journal file support
-  - write before-image integration
+  - write before-image integration -> bimfile
 - compact heap, reorg methods
-- convert (encode/decode) of standard types (refactor from btree project)
+- convert (encode/decode) of standard types (refactor from btree)
 
 
 ## dllfile
 
 - more testcases
 - refactor heapfile handling
-  - calc of offset to write to in [`pyheapfile`](https://github.com/kr-g/pyheapfile/)
+  - calc of offset to write to in `heapfile`
   - check boundery
   - from_buffer/to_buffer methods
   
@@ -32,7 +32,7 @@ for latest ongoing, or upcoming news.
 
 ## btreeplus
 
-- refactor Context to pybtreecore
+- refactor Context to btreecore
 - refactor core methods of bplustree to btreecore
 - refactor test cases
 
