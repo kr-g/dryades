@@ -2,7 +2,7 @@
     (c)2022 K. Goger - https://github.com/kr-g
 
 project homepage:
-https://github.com/kr-g/ceres
+https://github.com/kr-g/dryades
 
 ---
 
