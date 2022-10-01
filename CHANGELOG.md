@@ -12,6 +12,7 @@ for open development tasks and limitations.
   - https://github.com/kr-g/pyheapfile
   - https://github.com/kr-g/pydllfile
   - https://github.com/kr-g/pybimfile
+  - https://github.com/kr-g/pyfdlock
   -
 -
 
