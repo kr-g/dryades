@@ -34,7 +34,7 @@ see also [`heapfile`](./heapfile.md) for layout.
 | 2**60 | 16 | EB |
 
 - the default can be changed by creating `DoubleLinkedListFile` with a different `link_size`
-- see other limits also here [`pyheapfile`](https://github.com/kr-g/pyheapfile/)
+- see other limits also here [`heapfile`](./heapfile.md)
 -
 
 ## remark on hexdump tool
