@@ -2,6 +2,14 @@
 
 home of the `dryades` umbrella project
 
+- `fdlock` locking file regions
+- `bimfile` copy-on-write
+- `heapfile` file persistent heap structure
+- `dllfile` double-linked-list for heapfile
+- `btreecore` basic b-tree for heapfile
+- `btreeplus` b-plus-tree for heapfile
+- 
+
 
 # documentation
 
