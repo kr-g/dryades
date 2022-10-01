@@ -23,6 +23,7 @@ for latest ongoing, or upcoming news.
   - check boundery
   - from_buffer/to_buffer methods
   
+  
 ## btreecore
 
 - more testcases
@@ -34,6 +35,12 @@ for latest ongoing, or upcoming news.
 - refactor Context to pybtreecore
 - refactor core methods of bplustree to btreecore
 - refactor test cases
+
+
+## common
+
+- hexdump tool rework
+-
 
 
 
