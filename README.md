@@ -2,6 +2,8 @@
 
 home of the `dryades` umbrella project
 
+included modules:
+
 - `fdlock` locking file regions
 - `bimfile` copy-on-write
 - `heapfile` file persistent heap structure
@@ -13,7 +15,7 @@ home of the `dryades` umbrella project
 
 # documentation
 
-the module documentation can be found in folder [`docs`](./docs/)
+the modules documentation can be found in folder [`docs`](./docs/)
 
 
 # what's new ?
