@@ -34,5 +34,6 @@ alpha, the interface/ workflow might change without prior notice
     
 # license
 
+this software is free for non-commercial use. 
 [`LICENSE`](./LICENSE.md)
 
