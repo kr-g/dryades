@@ -8,9 +8,11 @@ for open development tasks and limitations.
 
 ## next version v0.0.1 - ???
 
-- moved code from https://github.com/kr-g/pyheapfile into dryades
-- 
-
+- moved other code base into dryades
+  - https://github.com/kr-g/pyheapfile
+  - https://github.com/kr-g/pydllfile
+  -
+-
 
 ## version v0.0.0 - 20221001
 
