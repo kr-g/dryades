@@ -11,6 +11,7 @@ for open development tasks and limitations.
 - moved other code base into dryades
   - https://github.com/kr-g/pyheapfile
   - https://github.com/kr-g/pydllfile
+  - https://github.com/kr-g/pybimfile
   -
 -
 
