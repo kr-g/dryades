@@ -5,6 +5,14 @@ for open development tasks and limitations.
 
 # CHANGELOG
 
+- heapfile: 
+  - parameter max_size for limiting the size of the heapfile
+- fdlock:
+  - added backend for calling lockf and ulockf abstraction
+  - added `VirtualBackend` passing all lock functions
+
+- 
+
 
 ## next version v0.0.1 - ???
 
