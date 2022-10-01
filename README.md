@@ -1,4 +1,4 @@
-# ceres
+# dryades
 
 home of the `dryades` umbrella project
 
