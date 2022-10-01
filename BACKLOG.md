@@ -11,7 +11,7 @@ for latest ongoing, or upcoming news.
 
 # OPEN ISSUES
 
-refer to [issues](https://github.com/kr-g/ceres/issues)
+refer to [issues](https://github.com/kr-g/dryades/issues)
 
 
 # LIMITATIONS
