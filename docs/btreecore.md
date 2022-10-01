@@ -103,7 +103,7 @@ the internal hexdump tool for dumping single b-tree nodes from the btcorefile ca
 ## limitations
 
 - see other limits also here [`dllfile`](./dllfile.md)
-- see other limits also here [`heapfile`](./pyheapfile.md)
+- see other limits also here [`heapfile`](./heapfile.md)
 - key and data field len is limited to 12 bits (3 nibbles) 2**12 == 4096 bytes max len
 - 
 
