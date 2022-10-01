@@ -1,4 +1,4 @@
-from pyheapfile.hexdump import hexdumps
+from dryades.heapfile.hexdump import hexdumps
 
 
 def main():
