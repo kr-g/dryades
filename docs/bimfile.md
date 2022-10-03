@@ -9,7 +9,7 @@ before a change to a file is written all changes are recorded in another file.
 
 # memory / file layout
 
-## header
+## header record
 
 | name | size (bytes) | description |
 | --- | --- | --- | 
@@ -25,7 +25,7 @@ before a change to a file is written all changes are recorded in another file.
 | blen | xpos | size of change segment |
 | magick | 4 | 0xdeafbeef as magic marker |
 
-a list of change records is stored as continuously stream after header
+a list of change records is stored as continuously stream after the header record
 
 
 ## limitation
