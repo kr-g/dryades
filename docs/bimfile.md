@@ -25,7 +25,12 @@ before a change to a file is written all changes are recorded in another file.
 | blen | xpos | size of change segment |
 | magick | 4 | 0xdeafbeef as magic marker |
 
-a list of change records is stored as continuously stream after the header record
+a list of change records is stored as continuously stream after the header record.
+
+a change record is written __after__ the data block.
+so that (if required) the process of rolling back changes "starts" at the end of the file 
+(containing the change records) by readling the last change record 
+(where the record length is known, whereas the data block len is variable)
 
 
 ## limitation
