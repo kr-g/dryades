@@ -16,8 +16,8 @@ it also provides only a minimal set of integrity checks.
 
 a list of B-Tree element nodes resides inside a dllfile, and heap node as data part. 
 see also 
-[`pydllfile`](./dllfile.md), and
-[`pyheapfile`](./heapfile.md) 
+[`dllfile`](./dllfile.md), and
+[`heapfile`](./heapfile.md) 
 for layout.
 
 
