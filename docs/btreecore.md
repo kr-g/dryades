@@ -31,8 +31,8 @@ for layout.
 | len_high | 1 | key and data len high nibbles combined, this exists only if key, or data is set |
 | key_len_low | 1 | key len low byte (2 nibbles), this exists only if key is set |
 | data_len_low | 1 | data len low byte (2 nibbles), this exists only if data is set |
-| key | k bytes | key value, this exists only if key is set |
-| data | d bytes | data value, this exists only if data is set |
+| key | k bytes | key value, this exists only if key flag is set |
+| data | d bytes | data value, this exists only if data flag is set |
 | left | xpos bytes | left node pointer, this exists only if flag is set |
 | right | xpos bytes | right node pointer, this exists only if flag is set |
 
