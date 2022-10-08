@@ -125,6 +125,7 @@ def find_packages(exclude=None):
     if exclude is None:
         exclude = [
             "tests",
+            "tests.*",
             "docs",
         ]
     return setuptools.find_packages(exclude=exclude)
