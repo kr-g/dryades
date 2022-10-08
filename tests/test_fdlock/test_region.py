@@ -1,6 +1,9 @@
 import unittest
 
-from .test_func import eq, list_eq
+try:
+    from .test_func import eq, list_eq
+except:
+    from test_func import eq, list_eq
 
 from dryades.fdlock.lock import *
 from dryades.fdlock.lock import _Region
