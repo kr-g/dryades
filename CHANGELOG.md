@@ -6,7 +6,7 @@ for open development tasks and limitations.
 # CHANGELOG
 
 
-## next version v0.0.1 - ???
+## next version v0.0.1 - 20221008
 
 - moved other code base into dryades
   - https://github.com/kr-g/pyheapfile
@@ -21,8 +21,9 @@ for open development tasks and limitations.
 - fdlock:
   - added backend for calling lockf and ulockf abstraction
   - added `VirtualBackend` passing all lock functions
+-  
+- all tests are running !
 - 
--
 
 
 ## version v0.0.0 - 20221001
