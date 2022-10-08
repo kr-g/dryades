@@ -41,6 +41,12 @@ linux, and python3
 
 alpha, the interface/ workflow might change without prior notice
 
+
+# remark
+
+the project name `dryades` origines from 
+[greek mythology](https://en.wikipedia.org/wiki/Dryad)
+
     
 # license
 
