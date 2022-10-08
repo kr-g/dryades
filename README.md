@@ -5,7 +5,7 @@ home of the `dryades` umbrella project
 included modules:
 
 - `fdlock` locking file regions
-- `bimfile` copy-on-write
+- `bimfile` copy-on-write, change journal 
 - `heapfile` file persistent heap structure
 - `dllfile` double-linked-list for heapfile
 - `btreecore` basic b-tree for heapfile
