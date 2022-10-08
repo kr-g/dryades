@@ -57,11 +57,11 @@ def main():
     import argparse
 
     from dryades.heapfile.heap import HeapFile
-    from dryades.heapfile import VERSION
+    from dryades.const import VERSION
 
     parser = argparse.ArgumentParser(
         prog="hexdump",
-        usage="python3 -m pyheapfile.%(prog)s [options]",
+        usage="python3 -m dryades.heapfile.%(prog)s [options]",
         description="dump heapfile nodes",
     )
     parser.add_argument(

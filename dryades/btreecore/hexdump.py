@@ -12,9 +12,9 @@ def main():
 
     from dryades.btreecore.btcore import BTreeCoreFile
     from dryades.btreecore.conv import Convert
-    from dryades.btreecore import VERSION
+    from dryades.const import VERSION
 
-    from pybtreecore.btnode import (
+    from dryades.btreecore.btnode import (
         F_LEAF,
         F_KEY,
         F_DATA,
@@ -32,7 +32,7 @@ def main():
 
     parser = argparse.ArgumentParser(
         prog="hexdump",
-        usage="python3 -m pybtreecore.%(prog)s [options]",
+        usage="python3 -m dryades.btreecore.%(prog)s [options]",
         description="dump heapfile b-tree elements",
     )
     parser.add_argument(

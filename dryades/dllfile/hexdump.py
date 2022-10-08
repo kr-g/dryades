@@ -6,13 +6,13 @@ def main():
     import argparse
 
     from dryades.heapfile.heap import HeapFile, Node
-    from dryades.dllfile import VERSION
+    from dryades.const import VERSION
 
     from dryades.dllfile.dllist import DoubleLinkedListFile, LINK_SIZE
 
     parser = argparse.ArgumentParser(
         prog="hexdump",
-        usage="python3 -m pydllfile.%(prog)s [options]",
+        usage="python3 -m dryades.dllfile.%(prog)s [options]",
         description="dump heapfile double linked elements",
     )
     parser.add_argument(
