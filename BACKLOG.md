@@ -39,7 +39,7 @@ for latest ongoing, or upcoming news.
 
 ## common
 
-- hexdump tool rework
+- hexdump tool rework in all submodules!!!
 -
 
 
