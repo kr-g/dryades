@@ -5,8 +5,12 @@ for open development tasks and limitations.
 
 # CHANGELOG
 
+## version v0.0.2 - ???
 
-## next version v0.0.1 - 20221008
+- 
+
+
+## version v0.0.1 - 20221008
 
 - moved other code base into dryades
   - https://github.com/kr-g/pyheapfile
